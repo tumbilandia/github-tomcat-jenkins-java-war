@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins Successfully Deloyed War file in Tomcat! How is this going?</h2>
+<h2>SopraLab - Integracion Continua - Tomcat</h2>
 </body>
 </html>
